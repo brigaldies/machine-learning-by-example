@@ -4,6 +4,9 @@ This repo contains a variety of machine learning examples.
 
 Current examples are for:
 - Regression
+  - Linear Regression
+    - Single-Variable Linear Regression
+    - Multi-Variable Linear Regression
 
 The repo was created in April 2024.
 
