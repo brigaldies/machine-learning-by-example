@@ -35,7 +35,12 @@ poetry install
 
 ## Linear Regression
 
-### Simple Linear Regression
+### Single-Variable Linear Regression
 
-The example in the `simple-linear-regression` Jupyter notebook provides a linear regression with a single input 
+The example in the `single-variable-linear-regression` Jupyter notebook provides a linear regression with a single input 
 (aka, dependent, predictor, or feature) variable.
+
+### Multi-Variable Linear Regression
+
+The example in the `multiple-variable-linear-regression` Jupyter notebook provides a linear regression with multiple input 
+(aka, dependent, predictor, or feature) variables.
