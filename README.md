@@ -9,6 +9,7 @@ Current examples are for:
     - Multi-Variable Linear Regression
   - Polynomial Regression
     - Single-Variable Polynomial Regression
+    - Multi-Variable Polynomial Regression
 
 The repo was created in April 2024.
 
@@ -56,3 +57,8 @@ The example in the `multiple-variable-linear-regression` Jupyter notebook provid
 
 The example in the `single-variable-polynomial-regression` Jupyter notebook provides a polynomial regression with a single input 
 (aka, dependent, predictor, or feature) variable.
+
+### Multi-Variable Polynomial Regression
+
+The example in the `multiple-variable-polynomial-regression` Jupyter notebook provides a polynomial regression with multiple input 
+(aka, dependent, predictor, or feature) variables.
