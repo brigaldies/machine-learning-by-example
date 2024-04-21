@@ -10,6 +10,8 @@ Current examples are for:
   - Polynomial Regression
     - Single-Variable Polynomial Regression
     - Multi-Variable Polynomial Regression
+- Neural Networks
+  - Vector Operations
 
 The repo was created in April 2024.
 
