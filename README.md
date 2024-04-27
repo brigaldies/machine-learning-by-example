@@ -12,6 +12,7 @@ Current examples are for:
     - Multi-Variable Polynomial Regression
 - Neural Networks
   - Vector Operations
+  - Simple neural network, with gradient descent
 
 The repo was created in April 2024.
 
@@ -64,3 +65,14 @@ The example in the `single-variable-polynomial-regression` Jupyter notebook prov
 
 The example in the `multiple-variable-polynomial-regression` Jupyter notebook provides a polynomial regression with multiple input 
 (aka, dependent, predictor, or feature) variables.
+
+# Neural Network
+
+## Vectors and Dot-Products
+
+The example in the `vectors-and-weights` Jupyter notebook provides examples of vectors, and the vectors "dot product" operation.
+
+## Simple Neural Network
+
+The example in the `my-first-neural-network` Jupyter notebook provides an example of a simple neural network with 
+a gradient descent calculation to update the weights and decrease the loss function.
