@@ -12,7 +12,8 @@ Current examples are for:
     - Multi-Variable Polynomial Regression
 - Neural Networks
   - Vector Operations
-  - Simple neural network, with gradient descent
+  - Simple neural network
+  - Simple neural network with gradient descent-based training
 
 The repo was created in April 2024.
 
@@ -76,3 +77,8 @@ The example in the `vectors-and-weights` Jupyter notebook provides examples of v
 
 The example in the `my-first-neural-network` Jupyter notebook provides an example of a simple neural network with 
 a gradient descent calculation to update the weights and decrease the loss function.
+
+## Simple Neural Network with Gradient Descent-based Training
+
+The example in the `neural-network-training` Jupyter notebook provides an example of a simple neural network trained with 
+a gradient descent algorithm.
